@@ -1,2 +1,4 @@
 # git-demo
-for practice
+This is my first Git Repository
+<br>
+By Akshay
